@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tc",
+  "name": "Twitch Control",
+  "description": "In this mod, your Twitch chat control your character \nYou can find your twitch chat password token here : https://twitchapps.com/tmi/ \nMake sure to don't share/show it",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Septimus"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
